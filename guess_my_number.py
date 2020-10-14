@@ -8,7 +8,7 @@ Created on Fri Sep 25 16:13:09 2020
 
 import random
 
-MIN = 0
+MIN = 6
 MAX = 1000
 
 class GuessMachine():
