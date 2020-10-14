@@ -8,7 +8,11 @@ Created on Fri Sep 25 16:13:09 2020
 
 import random
 
+<<<<<<< HEAD
 MIN = 0
+=======
+MIN = 543
+>>>>>>> e187999682e94425f7d020e1968c9df6aa40c0d2
 MAX = 1000
 
 class GuessMachine():
